@@ -1,5 +1,27 @@
-<h1 align="center">Hi 👋, I'm Allie Ubisse aka Troinux_sa</h1>
+<h1 align="center">Hi 👋, I'm Allie Ubisse (Troinux_sa)</h1>
 <h3 align="center">A passionate Data Scientist from South Africa!</h3>
+<p align="center">
+<a href="https://linkedin.com/in/allie-silver-ubisse" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="allie-silver-ubisse"/></a>
+<a href="https://twitter.com/troinux" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="allie-silver-ubisse"/></a>
+ </p>
+
+- 🔭 I’m currently working on **Fraud detection on Streaming Data with Spark**
+
+- 🌱 I’m currently learning **Docker,Pyspark,sparkML, Deep Learning and more latest Technologies**
+
+- 👨‍💻 All of my projects are available at [projects]
+
+- 📝 I regulary participate on Hackatons, see my [Zindi Profile]
+
+- 📫 How to reach me <a href="https://linkedin.com/in/allie-silver-ubisse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="allie-silver-ubisse" height="20" width="30" /></a>
+
+
+- 😂 Fun fact: **I told Github; the cloud is my friend! I have issues of breaking code during experiments and I’m commited to Linux Terminal, hence Troi + Linux = Troinux.**
+
+## Some of my stats :bar_chart:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allieubisse&layout=compact" alt="allieubisse" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allieubisse&show_icons=true" alt="allieubisse" /></p>
 
 ## Stack Skills :muscle:
 *These are some of the Laguages, Libraries, frameworks, and other cloud technologies that I use or have worked on in the past*
@@ -15,4 +37,6 @@
 
 
 
-
+[website]: https://allieubisse.co.za
+[projects]: https://allieubisse.co.za/#projects
+[Zindi Profile]: https://zindi.africa/users/Troinux_sa/competitions
