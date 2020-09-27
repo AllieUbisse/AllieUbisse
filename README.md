@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Allie Ubisse (Troinux_sa)</h1>
-<h3 align="center">A passionate Data Scientist from South Africa!</h3>
+<h2 align="center">Hi 👋, I'm Allie Ubisse (Troinux_sa)</h2>
+<h4 align="center">A passionate Data Scientist from South Africa!</h4>
 <p align="center">
+ <a href="https://allieubisse.co.za" target="blank"><img align="center" src="https://img.shields.io/website?label=allieubisse.co.za&style=for-the-badge&url=https%3A%2F%2Fallieubisse.co.za" alt="allie-silver-ubisse"/></a>
 <a href="https://linkedin.com/in/allie-silver-ubisse" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="allie-silver-ubisse"/></a>
 <a href="https://twitter.com/troinux" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="allie-silver-ubisse"/></a>
  </p>
