@@ -21,8 +21,8 @@
 
 ## Some of my stats :bar_chart:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allieubisse&layout=compact" alt="allieubisse" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allieubisse&show_icons=true" alt="allieubisse" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allieubisse&layout=compact" alt="allieubisse" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=allieubisse&show_icons=true" alt="allieubisse" />
+|--|--|
 
 ## Stack Skills :muscle:
 *These are some of the Laguages, Libraries, frameworks, and other cloud technologies that I use or have worked on in the past*
