@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/allie-silver-ubisse" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="allie-silver-ubisse"/></a>
 <a href="https://twitter.com/troinux" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="allie-silver-ubisse"/></a>
  </p>
-
+ 
 - 🔭 I’m currently working on **Fraud detection on Streaming Data with Spark**
 
 - 🌱 I’m currently learning **Docker,Pyspark,sparkML, Deep Learning and more latest Technologies**
@@ -19,7 +19,8 @@
 
 - 😂 Fun fact: **I told Github; the cloud is my friend! I have issues of breaking code during experiments and I’m commited to Linux Terminal, hence Troi + Linux = Troinux.**
 
-## Some of my stats :bar_chart:
+## Some of my stats :bar_chart:  <p align="left"> <img src="https://komarev.com/ghpvc/?username=allieubisse&label=PROFILE+VIEWS" alt="allieubisse" /> </p>
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allieubisse&layout=compact" alt="allieubisse" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=allieubisse&show_icons=true" alt="allieubisse" />
 |--|--|
