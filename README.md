@@ -1,12 +1,21 @@
 <h2 align="center">Hi 👋, I'm Allie Ubisse (Troinux_sa)</h2>
-<h4 align="center">A passionate Data Scientist from South Africa!</h4>
+<h4 align="center">A passionate [Data Scientist | Senior Data Engineer] from South Africa!</h4>
 <p align="center">
  <a href="https://allieubisse.co.za" target="_blank"><img align="center" src="https://img.shields.io/website?label=allieubisse.co.za&style=for-the-badge&url=https%3A%2F%2Fallieubisse.co.za" alt="allie-silver-ubisse"/></a>
 <a href="https://linkedin.com/in/allie-silver-ubisse" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="allie-silver-ubisse"/></a>
 <a href="https://twitter.com/troinux" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="allie-silver-ubisse"/></a>
  </p>
+
+ 
  
 - 🔭 I’m currently working on **Fraud detection on Streaming Data with Spark**
+  
+| Project Name | Description | status | start date  |  End Date | Repo |
+| --- | --- | --- | --- | --- | --- |
+| Kenya Challenge finetune an LLM to medical clinician | `We build lightweight Medical LLMs for frontline healthcare workers, helping them make better diagnoses and deliver faster, personalized care in fast-growing remote communities. I see you My Afrika! | Inprogress | start date  |  End Date | Repo |
+| Project Name | Description | status | start date  |  End date | Repo |
+| Project Name | Description | status | start date  |  End date | Repo |
+
 
 - 🌱 I’m currently learning **Docker,Pyspark,sparkML, Deep Learning and more latest Technologies**
 
