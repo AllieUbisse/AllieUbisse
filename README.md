@@ -9,13 +9,6 @@
  
  
 - 🔭 I’m currently working on **Fraud detection on Streaming Data with Spark**
-  
-| Project Name | Description | status | start date  |  End Date | Repo |
-| --- | --- | --- | --- | --- | --- |
-| Kenya Challenge finetune an LLM to medical clinician | We build lightweight specialized Medical LLMs for frontline healthcare workers, helping them make better diagnoses and deliver faster, personalized care in fast-growing remote communities. Think of AI being a Nurse Assistant. I see you My Afrika! | Inprogress | start date  |  End Date | Repo |
-| Project Name | Description | status | start date  |  End date | Repo |
-| Project Name | Description | status | start date  |  End date | Repo |
-
 
 - 🌱 I’m currently learning **Docker,Pyspark,sparkML, Deep Learning and more latest Technologies**
 
@@ -30,9 +23,14 @@
 
 ## Some of my stats :bar_chart:  <p align="left"> <img src="https://komarev.com/ghpvc/?username=allieubisse&label=PROFILE+VIEWS" alt="allieubisse" /> </p>
 
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allieubisse&layout=compact" alt="allieubisse" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=allieubisse&show_icons=true" alt="allieubisse" />
 |--|--|
+
+  
+| Project Name | Description | status | start date  |  End Date | Repo |
+| --- | --- | --- | --- | --- | --- |
+| Kenya Challenge finetune an LLM to medical clinician | We build lightweight specialized Medical LLMs for frontline healthcare workers, helping them make better diagnoses and deliver faster, personalized care in fast-growing remote communities. Think of AI being a Nurse Assistant. I see you My Afrika! | Inprogress | start date  |  End Date | Repo is Private |
+
 
 ## Stack Skills :muscle:
 *These are some of the Laguages, Libraries, frameworks, and other cloud technologies that I use or have worked on in the past*
