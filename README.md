@@ -12,7 +12,7 @@
   
 | Project Name | Description | status | start date  |  End Date | Repo |
 | --- | --- | --- | --- | --- | --- |
-| Kenya Challenge finetune an LLM to medical clinician | `We build lightweight Medical LLMs for frontline healthcare workers, helping them make better diagnoses and deliver faster, personalized care in fast-growing remote communities. I see you My Afrika! | Inprogress | start date  |  End Date | Repo |
+| Kenya Challenge finetune an LLM to medical clinician | We build lightweight specialized Medical LLMs for frontline healthcare workers, helping them make better diagnoses and deliver faster, personalized care in fast-growing remote communities. I see you My Afrika! | Inprogress | start date  |  End Date | Repo |
 | Project Name | Description | status | start date  |  End date | Repo |
 | Project Name | Description | status | start date  |  End date | Repo |
 
